@@ -1,0 +1,71 @@
+{
+  "contact_email": "adops@alumax.ai",
+  "contact_address": "Dover, DE, USA",
+  "version": "1.0",
+  "identifiers": [],
+  "sellers": [
+    {
+      "seller_id": "580148",
+      "name": "Cricket Acquisition Corporation",
+      "domain": "willow.tv",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "398522",
+      "name": "Fubo TV",
+      "domain": "fubo.tv",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "892637",
+      "name": "Zeam",
+      "domain": "zeam.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "108338",
+      "name": "Zeam",
+      "domain": "newson.us",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "663834",
+      "name": "Cineverse",
+      "domain": "cineverse.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "636394",
+      "name": "Network Communications Inc.",
+      "domain": "net-com.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "720748",
+      "name": "Xumo",
+      "domain": "xumo.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "466402",
+      "name": "Blox Digital",
+      "domain": "bloxdigital.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    },
+    {
+      "seller_id": "323285",
+      "name": "Spacemob",
+      "domain": "space-mob.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    }
+  ]
+}
