@@ -66,6 +66,13 @@
       "domain": "space-mob.com",
       "seller_type": "PUBLISHER",
       "is_confidential": 0
+    },
+    {
+      "seller_id": "78269507739",
+      "name": "Castify Ltd.",
+      "domain": "castify.ai",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
     }
   ]
 }
