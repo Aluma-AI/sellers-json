@@ -73,6 +73,13 @@
       "domain": "castify.ai",
       "seller_type": "PUBLISHER",
       "is_confidential": 0
+    },
+    {
+      "seller_id": "22924400526",
+      "name": "Boolla Media Limited (Cinemoon)",
+      "domain": "cinemoon.tv",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
     }
   ]
 }
