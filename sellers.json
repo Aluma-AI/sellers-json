@@ -80,6 +80,13 @@
       "domain": "cinemoon.tv",
       "seller_type": "PUBLISHER",
       "is_confidential": 0
+    },
+    {
+      "seller_id": "63108418213",
+      "name": "Good Run Media, LLC",
+      "domain": "goodrunmedia.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
     }
   ]
 }
