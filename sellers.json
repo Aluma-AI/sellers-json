@@ -87,6 +87,13 @@
       "domain": "goodrunmedia.com",
       "seller_type": "PUBLISHER",
       "is_confidential": 0
+    },
+    {
+      "seller_id": "81861240793",
+      "name": "League-M Europe GmbH",
+      "domain": "league-m.de",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0
     }
   ]
 }
