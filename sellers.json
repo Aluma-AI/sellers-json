@@ -94,6 +94,13 @@
       "domain": "league-m.de",
       "seller_type": "INTERMEDIARY",
       "is_confidential": 0
+    },
+    {
+      "seller_id": "69394189166",
+      "name": "Vesta Stream",
+      "domain": "vestastream.com",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0
     }
   ]
 }
