@@ -101,6 +101,13 @@
       "domain": "vestastream.com",
       "seller_type": "INTERMEDIARY",
       "is_confidential": 0
+    },
+    {
+      "seller_id": "76175631693",
+      "name": "Maticway Media Pte. Ltd.",
+      "domain": "maticway.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
     }
   ]
 }
