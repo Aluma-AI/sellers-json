@@ -108,6 +108,13 @@
       "domain": "maticway.com",
       "seller_type": "PUBLISHER",
       "is_confidential": 0
+    },
+    {
+      "seller_id": "42029940952",
+      "name": "WeCall Media",
+      "domain": "wecallmedia.com",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0
     }
   ]
 }
